@@ -1,0 +1,14 @@
+# MADLY
+MDY
+{
+  "name": "MADLY",
+  "symbol": "MDY",
+  "address": "5VtWSN8goWBnGjzgXLWDVbxfTz6w8t5ACbdFeK41HEGE",
+  "decimals": 9,
+  "logoURI": "bafybeidk5ddai6bkwhsfja22dr4toif2uvgul3sounqej33cbddvak7ggu",
+  "tags": ["utility-token", "community", "meme"],
+  "extensions": {
+    "twitter": "",
+    "description": "MADLY is a meme token on Solana with a strong community spirit."
+  }
+}
